@@ -1,0 +1,5 @@
+{
+  "/register/page": "app/register/page.js",
+  "/test-connection/page": "app/test-connection/page.js",
+  "/forgot-password/page": "app/forgot-password/page.js"
+}
